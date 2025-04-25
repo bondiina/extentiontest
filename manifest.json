@@ -21,12 +21,7 @@
     "128": "src/icons/icon128.png"
   },
   "background": {
-    "service_worker": "src/service_worker.js",
-    "scripts": [
-      "src/service_worker.js"
-    ],
-    "type": "module"
-  },
+    "service_worker": "src/service_worker.js"},
   "content_scripts": [
     {
       "matches": [
